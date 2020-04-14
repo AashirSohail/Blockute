@@ -3415,3 +3415,11 @@ Version:	1.1
 .pdt-5{
 	padding-top: 5rem;
 }
+
+.pdt-3{
+	padding-top: 3rem;
+}
+
+.pdt-around-3{
+	padding: 3rem 10rem 6rem 6rem;
+}
