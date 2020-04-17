@@ -958,7 +958,7 @@ Version:	1.1
 ===============================*/
 .call-action {
 	padding: 50px 0px;
-	background-image:url('https://via.placeholder.com/1900x700');
+	background-image:url('./img/bkg/contact.png');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1777,6 +1777,14 @@ Version:	1.1
 .testimonials .contact-form-box {
 	padding: 0px 60px;
 }
+
+#subscribe {
+	margin-top: 2rem;
+	height:35px;
+	width: 35rem;
+	margin-bottom: 3rem;
+}
+
 .testimonials .contact-form-box .mailform input{
 	border: 1px solid #e7e7e7;
 	border-radius: inherit;
