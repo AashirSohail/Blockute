@@ -751,11 +751,13 @@ Version:	1.1
 	Start Skill CSS
 ===============================*/
 .skill-area{
-	background-image:url('https://via.placeholder.com/1900x700');
+	background-image:url();
+	background-color: #fff;
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
 	overflow:hidden;
+	padding-bottom: 5rem;
 }
 .skill-area .section{
 	padding:90px 0 50px 0;
@@ -823,7 +825,7 @@ Version:	1.1
 	Start Services CSS
 ===============================*/
 .services{
-	background:#fff;
+	background:rgb(209, 209, 209);
 }
 .services .single-service {
 	position: relative;
